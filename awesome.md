@@ -25,5 +25,9 @@
 - 100offer
 - 兼职猫
 
+# 薪资网站
+- [看准网](https://www.kanzhun.com/)
+- [职友集](https://www.jobui.com/)
+
 # changelog
 20190104 第一次编辑
